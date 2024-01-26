@@ -30,7 +30,7 @@ nav a:hover {
 
 h1 {
 
-    color: #86A7FC;
+    color: #323232;
     text-align: center;
 
 }
@@ -38,5 +38,15 @@ h1 {
 p{
 
     text-align: justify;
+
+}
+
+.opac{
+    filter: brightness(50%);
+}
+
+h5{
+
+text-align: center;
 
 }
