@@ -14,8 +14,14 @@ body {
 
 }
 
-p{
+p {
 
     text-align: justify;
+
+}
+
+h1 {
+
+    text-align: center;
 
 }
