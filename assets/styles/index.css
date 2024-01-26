@@ -2,16 +2,14 @@ body {
 
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background: rgb(52, 104, 192);
-    background: linear-gradient(180deg, rgba(52, 104, 192, 1) 25%, rgba(134, 167, 252, 1) 50%, rgba(255, 221, 149, 1) 75%);
+    background-color: #FFDD95;
     min-height: 100vh;
 
 }
 
 nav {
 
-    background-color: #3468c0;
+    background-color: #FF9843;
     overflow: hidden;
 
 }
@@ -32,6 +30,13 @@ nav a:hover {
 
 h1 {
 
+    color: #86A7FC;
+    text-align: center;
 
-    
+}
+
+p{
+
+    text-align: justify;
+
 }
