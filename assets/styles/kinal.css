@@ -20,8 +20,39 @@ h1 {
 
 }
 
-.fff {
+h5 {
 
-    border: none;
+    text-align: center;
+    border-radius: 25px 0px 25px 0px;
+    color: #ffff;
 
+}
+
+.navbar {
+
+    background-color: #23376D;
+
+}
+
+.navbar :hover {
+
+    color: orange;
+
+}
+
+.nav-link {
+
+    color: white;
+
+}
+
+.container_footer {
+
+    margin: 0;
+
+}
+
+footer {
+    background-color: #23376D;
+    color: #fff;
 }
